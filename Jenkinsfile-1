@@ -20,7 +20,7 @@ steps {
 git branch: 'patch-1', url: 'https://github.com/neelappagowda/Test.git'
 sh '''
 mvn clean install
-echo 'this is java-project_test ok'
+echo 'this is java-project_test okok'
 '''
 }
 }
